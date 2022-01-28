@@ -7,7 +7,7 @@
 .banner{
   width: 100%;
   height: 75vh;
-  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.20)),url(banners/keyboard.jpeg);
+  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.20)),url(banners\keyboard.jpeg);
  /* background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.20)),url(https://source.unsplash.com/1200x600/?autumn); */
   background-size: cover;
   background-position: center;
@@ -16,7 +16,7 @@
 .banner-test{
   width: 100%;
   height: 740px;
-  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.20)),url(banners/hubble.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.20)),url(banners\hubble.jpg);
  /* background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.20)),url(https://source.unsplash.com/1200x600/?autumn); */
   background-size: cover;
   background-position: center;
@@ -26,7 +26,7 @@
 .banner-index{
   width: 100%;
   height: 730px;
-  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.20)),url(banners/keyboard.jpeg);
+  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.20)),url(banners\keyboard.jpeg);
  /* background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.20)),url(https://source.unsplash.com/1200x600/?autumn); */
   background-size: cover;
   background-position: center;
@@ -36,7 +36,7 @@
 .banner2{
   width: 100%;
   height: 730px; 
-  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.20)),url(banners/hubble.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.20)),url(banners\hubble.jpg);
   background-size: cover;
   background-position: center;
   box-shadow: 5px 5px 10px #000;
@@ -44,7 +44,7 @@
 .banner3{
   width: 100%;
   height: 730px;
-  background-image: linear-gradient(rgba(0,0,0,0.90),rgba(0,0,0,0.20)),url(banners/laptop.jpeg);
+  background-image: linear-gradient(rgba(0,0,0,0.90),rgba(0,0,0,0.20)),url(banners\laptop.jpeg);
   background-size: cover;
   background-position: center;
   box-shadow: 5px 5px 10px #000;
@@ -52,7 +52,7 @@
 .banner4{
   width: 100%;
   height: 70%;
-  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.10)),url(/bannersservice.jpeg);
+  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.10)),url(\bannersservice.jpeg);
   background-size: cover;
   background-position: center;
   box-shadow: 5px 5px 10px #000;
@@ -61,7 +61,7 @@
 .banner5{
   width: 100%;
   height: 75vh; 
-  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.20)),url(banners/wasteland.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.20)),url(banners\wasteland.jpg);
   background-size: cover;
   background-position: center;
   box-shadow: 5px 5px 10px #000;
